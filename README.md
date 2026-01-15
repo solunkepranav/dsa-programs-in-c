@@ -1,4 +1,4 @@
-# Faculty Feedback System - DSA Lab Programs
+#  DSA Lab Programs
 
 This repository contains C implementations of various Data Structures and Algorithms concepts, developed during lab sessions.
 
