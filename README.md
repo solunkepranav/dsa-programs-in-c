@@ -22,6 +22,12 @@ This repository contains C implementations of various Data Structures and Algori
 *   **Linear Probing** (`linprobhash.c`): Hash table implementation using linear probing for collision resolution.
 *   **Jagged Array** (`jaggedarray.c`): Working with arrays of varying column sizes.
 
+### 🧩 Other C Programs (in `others/` folder)
+*   **Basics**: Area of Circle, Simple Interest, Unit Conversions (`areofcir.c`, `simpint.c`, `footmet.c`).
+*   **Patterns**: Various star/number pattern printing programs (`pattern1.c` - `pattern6.c`).
+*   **Number Logic**: Armstrong Numbers, Kaprekar Numbers, GCD/LCM (`armstrg.c`, `kaprekar.c`, `gcdlcm.c`).
+*   **File Handling**: Basic file operations and copying (`file.c`, `cpy.c`).
+
 ### 🎮 Applications & Misc
 *   **UNO Game** (`UNO.c`): A simple card game simulation.
 *   **Car Track** (`cartrack.c`): Simulation/Record keeping program.
